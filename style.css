@@ -7,6 +7,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .width{
     width: 50%;
@@ -29,4 +30,14 @@ section{
 }
 body{
     margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.big{
+    padding-right: 130px;
 }
